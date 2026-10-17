@@ -39,6 +39,42 @@ const cardData = [
     description: "This is card 6 description",
     image: "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?w=300",
   },
+  {
+  id: 12,
+    title: "Card 12",
+    description: "This is card 1 description",
+    image: "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=300",
+  },
+  {
+    id: 7,
+    title: "Card 7",
+    description: "This is card 2 description",
+    image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=300",
+  },
+  {
+    id: 8,
+    title: "Card 8",
+    description: "This is card 8 description",
+    image: "https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=300",
+  },
+  {
+    id: 9,
+    title: "Card 9",
+    description: "This is card 9 description",
+    image: "https://images.unsplash.com/photo-1549366021-9f761d450615?w=300",
+  },
+  {
+    id: 11,
+    title: "Card 11",
+    description: "This is card 5 description",
+    image: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=300",
+  },
+  {
+    id: 10,
+    title: "Card 10",
+    description: "This is card 10 description",
+    image: "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?w=300",
+  },
 ];
 
 function App() {
